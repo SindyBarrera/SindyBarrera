@@ -1,5 +1,5 @@
 
-![github](https://user-images.githubusercontent.com/79237034/179264964-0e516147-83b7-4869-b421-ef926f7f2a79.gif)
+![github](https://user-images.githubusercontent.com/79237034/179264964-0e516147-83b7-4869-b421-ef926f7f2a79.gif) height = "250"
 
 ###Me gusta el desarrollo del Frontend 
 
