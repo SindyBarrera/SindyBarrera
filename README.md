@@ -1,4 +1,4 @@
-### Hola 👋 soy Sindy Melissa Barrera Barrera, Me gusta el desarrollo del Frontend 
+###Me gusta el desarrollo del Frontend 
 
 <h1 align="center">Hola 👋, soy Sindy Melissa Barrera Barrera</h1>
 <h3 align="center">Una apasionada desarrolladora frontend y backend de Guatemala</h3>
