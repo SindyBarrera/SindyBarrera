@@ -1,7 +1,7 @@
 ###Me gusta el desarrollo del Frontend 
 
 <h1 align="center">Hola 👋, soy Sindy Melissa Barrera Barrera</h1>
-<h3 align="center">Una apasionada desarrolladora frontend y backend de Guatemala</h3>
+<h3 align="center">Una apasionada estudiante universitaria de Ingenieria En Sistemas de Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindybarrera&label=Profile%20views&color=0e75b6&style=flat" alt="sindybarrera" /> </p>
 
