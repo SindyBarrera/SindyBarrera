@@ -1,5 +1,5 @@
 ###Me gusta el desarrollo del Frontend 
-![yNzWNJ](https://user-images.githubusercontent.com/79237034/179264347-9d983152-6afb-48e7-849e-21082f7db28c.gif)
+
 
 <h1 align="center">Hola 👋, soy Sindy Melissa Barrera Barrera</h1>
 <h3 align="center">Una apasionada estudiante universitaria de Ingenieria En Sistemas de Guatemala</h3>
